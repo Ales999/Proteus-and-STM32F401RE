@@ -1,6 +1,0 @@
-../Core/Src/servomotor.c:44:16:servo_init	3
-../Core/Src/servomotor.c:60:6:servo_set_limit	2
-../Core/Src/servomotor.c:68:6:servo_set_offset	2
-../Core/Src/servomotor.c:75:7:servo_duty_ms	1
-../Core/Src/servomotor.c:93:6:servo_set_position	10
-../Core/Src/servomotor.c:142:6:servo_sweep	10
