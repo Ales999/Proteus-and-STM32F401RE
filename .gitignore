@@ -54,5 +54,8 @@ dkms.conf
 # IDE
 CudeIDEProject/workspace*/**
 CubeIDEProject/workspace*/**
+C*/TestSTM32Cube/Release/**
+CubeIDEProject/workspace*/**
+
 ProteusProject/Project*
 *.pdsprj.DESKTOP-*
