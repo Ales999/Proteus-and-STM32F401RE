@@ -1,5 +1,6 @@
-Simple example set Pins and Timer for with STM32CubeIDE for PWM servomotor, and show simulation into Proteus with STM32F401RE microcontroller.
-Project using servomotor library: https://github.com/FilipeChagasDev/stm32-servomotor
+A simple example of setting up contacts and a timer for a servo motor in STM32Cube MX/IDE, and demonstrating simulation in Proteus using the STM32F401RE microcontroller.
+
+This project using servomotor library: https://github.com/FilipeChagasDev/stm32-servomotor
 
 Proteus used generated STM32CudebIDE 'hex' file.
-Check 'Images' folder for exmple configuration.
+Check 'Images' folder for example configuration.
