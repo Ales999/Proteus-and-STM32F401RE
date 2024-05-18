@@ -2,5 +2,5 @@ A simple example of setting up contacts and a timer for a servo motor in STM32Cu
 
 This project using servomotor library: https://github.com/FilipeChagasDev/stm32-servomotor
 
-Proteus used generated STM32CudebIDE 'hex' file.
+Proteus used generated STM32CubeIDE 'hex' file.
 Check 'Images' folder for example configuration.
