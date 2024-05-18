@@ -55,6 +55,7 @@ dkms.conf
 CudeIDEProject/workspace*/**
 CubeIDEProject/workspace*/**
 C*/TestSTM32Cube/Release/**
+C*/TestSTM32Cube/Debug/**
 CubeIDEProject/workspace*/**
 
 ProteusProject/Project*
